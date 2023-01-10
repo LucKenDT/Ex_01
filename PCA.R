@@ -9,3 +9,5 @@ pca <- prcomp(M) #perform PCA analysis.
 
 PCs <- predict(pca)[ ,1:3]
 plot(PCs)
+
+#test only
