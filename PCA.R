@@ -17,3 +17,4 @@ plot(PCs)
 #Cuong add on 13/01/2023
 
 
+#Tuan add on 13/02/2023
