@@ -18,3 +18,4 @@ plot(PCs)
 
 
 #Tuan add on 13/02/2023
+#Hom nay la cuoi tuan roi
