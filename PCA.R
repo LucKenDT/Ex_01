@@ -19,3 +19,6 @@ plot(PCs)
 
 #Tuan add on 13/02/2023
 #Hom nay la cuoi tuan roi
+
+#Cuong add on 14/01/2023
+#Cuoi tuan vui ve nhe nhom
