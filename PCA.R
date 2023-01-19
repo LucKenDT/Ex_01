@@ -22,3 +22,6 @@ plot(PCs)
 
 #Cuong add on 14/01/2023
 #Cuoi tuan vui ve nhe nhom
+
+#Tuan add 19/01/2023
+#Hom nay la 28 tet. Vui xuan ca nha!!!
